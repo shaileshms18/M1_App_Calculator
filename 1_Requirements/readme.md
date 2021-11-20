@@ -33,7 +33,7 @@ The First solid state electronic was created by Blaise pascal.
 
 ## What:
 
-An electronic Calculator is typically a portable electronic device used to perform.
+ A Calculator is a small electronic device used to perform various arithmetic operations like addition, subtraction, multiplication, division. It makes our calculations easier and faster. It is a portable device that can use anywhere to perform simple mathematical operations
 
 ## When:
 
