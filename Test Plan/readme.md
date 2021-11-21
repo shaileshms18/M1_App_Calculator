@@ -29,4 +29,4 @@
 
 4.Check if the calculator allows navigating through previous calculations
 
-5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.![142767678-dce96330-3b8d-4213-9183-507cae766bbf](https://user-images.githubusercontent.com/80145154/142767700-352f8c34-b984-42cc-8c51-6db9112942ab.png)
+5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.
