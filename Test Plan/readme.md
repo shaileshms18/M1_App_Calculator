@@ -1,0 +1,32 @@
+# TEST_PLAN
+
+![image](https://user-images.githubusercontent.com/80145154/142767678-dce96330-3b8d-4213-9183-507cae766bbf.png)
+
+
+
+
+## HIGH LEVEL TEST PLAN
+
+1.Check if the calculator is a normal calculator or a scientific calculator.
+
+2.Verify that all the buttons are present and text written on them is readable.
+
+3.Check the arithmetic operations are working fine- +, -, /, * etc.
+
+4.Verify that BODMAS is applied in case of complex queries and the correct result is returned.
+
+5.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
+
+
+
+## LOW LEVEL TEST PLAN
+
+1.Verify the number of digits allowed to enter in the calculator for any operation.
+
+2.Verify the limit of the response value.
+
+3.Verify the functioning of memory functions.
+
+4.Check if the calculator allows navigating through previous calculations
+
+5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.![142767678-dce96330-3b8d-4213-9183-507cae766bbf](https://user-images.githubusercontent.com/80145154/142767700-352f8c34-b984-42cc-8c51-6db9112942ab.png)
