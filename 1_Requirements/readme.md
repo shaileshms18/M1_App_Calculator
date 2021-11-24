@@ -40,7 +40,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 -    Other Similar Applications
 
-# 4W&#39;s and 1&#39;H
+# $w's and 1H
 
 ## Who
    
