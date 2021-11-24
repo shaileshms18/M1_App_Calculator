@@ -43,30 +43,30 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
    
 The First solid state electronic was created by Blaise pascal.
 
-## What:
+## What
 
 An electronic Calculator is typically a portable electronic device used to perform.
 
-## When:
+## When
 
 The First calculator was build in early 1960s. and then later updated to pocket calculator in 1970s
 
 
-## Where:
+## Where
 
 Calculator was developed by intel for the japanese calculator company busicom
 
-## How:
+## How
 
 Calculation is being able to perform all four airthmatic operations with minimal human interaction.
 
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 
 This project can be implemented by using c language in both windows and linux os.
 
@@ -78,10 +78,9 @@ It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
 Status:All the other Implementations will be done at later Part.
 
 
-##  Low level Requirements:
+##  Low level Requirements
 
 It should contain numerical values from 0-9
 
 
                                                           
-
