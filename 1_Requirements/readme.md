@@ -30,15 +30,15 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 ## Weaknesses
 
--   Cannot came back, once forward to next step
+-    Cannot came back, once forward to next step
 
 ## Opportunities
 
--   Can be implemented in any type of store or shops
+-    Can be implemented in any type of store or shops
 
 ## Threats
 
--   Other Similar Applications
+-    Other Similar Applications
 
 # 4W&#39;s and 1&#39;H
 
