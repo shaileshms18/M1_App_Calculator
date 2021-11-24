@@ -21,22 +21,22 @@ The cost of the calculator should be low as well as it should contain all the ba
 
 Calculator are long-lasting, and they have almost all kinds of calculators such as basic, scientific, graphing, financial etc.
 
-#### Strengths
+## Strengths
 
 -   Saves Time
 - Automatic Calculations
 - No chance of errors in calculations of inputs are right
 - Feature to add square and square root
 
-#### Weaknesses
+## Weaknesses
 
 - Cannot came back, once forward to next step
 
-#### Opportunities
+## Opportunities
 
 - Can be implemented in any type of store or shops
 
-#### Threats
+## Threats
 
 - Other Similar Applications
 
