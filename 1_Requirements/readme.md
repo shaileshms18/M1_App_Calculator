@@ -2,13 +2,13 @@
 
 The Calculator should contain 0-9 numbers.
 
-The Calculator must contain Addition,Subtraction,Multiplication and Division
+The Calculator must contain Addition,Subtraction,Multiplication Division,Square and Squareroot
 
 ## Introduction
  
 A basic calculator is sometimes referred to as a 4-function calculator
 
-A calculator is a machine which allows people to do math operations more easily. For example, most calculators will add, subtract, multiply, and divide.
+A calculator is a machine which allows people to do math operations more easily. For example, most calculators will add, subtract, multiply,Square and Squareroot.
 
 
 
@@ -52,7 +52,7 @@ Calculation is being able to perform all four airthmatic operations with minimal
 # Detail requirements
 ## High Level Requirements:
 
-It should contain **ADDITION,SUBTRACTION,MULTIPLICATION AND DIVISION**
+It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
 
 
 Status:All the other Implementations will be done at later Part.
