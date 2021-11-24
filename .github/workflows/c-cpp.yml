@@ -16,6 +16,4 @@ jobs:
     - name: configure
       run: gcc Calci.c -o Calci.exe
     - name: make
-      run: make
-    - name: Run
       run: .\Calci.exe
