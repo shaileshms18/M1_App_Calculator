@@ -13,7 +13,6 @@ A calculator is a machine which allows people to do math operations more easily.
 ## Research
  We had Researched on how to build and how the calculator can be customer oriented.
 
-
 ## Cost and Features and Timeline
 
 The cost of the calculator should be low as well as it should contain all the basic features.
@@ -24,7 +23,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 #### Strengths
 
-- Saves Time
+-   Saves Time
 - Automatic Calculations
 - No chance of errors in calculations of inputs are right
 - Feature to add square and square root
