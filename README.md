@@ -1,6 +1,6 @@
-# M1_App_Calculator
+# M1_App_Calculator 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/80145154/143287398-55ff9ed7-1cec-427b-9b9f-51ddcfb34df5.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80145154/143287398-55ff9ed7-1cec-427b-9b9f-51ddcfb34df5.gif)                     
 
 
 ## Quality badge from Codecy
