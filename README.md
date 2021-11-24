@@ -9,3 +9,6 @@
 
 ## Windows Badge from GitHub
 [![Windows C/C++ CI](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml)
+
+## Unit_Testing Badge from GitHub
+[![Unit_Testing](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml)
