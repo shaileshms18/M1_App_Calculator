@@ -24,9 +24,9 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 ## Strengths
 
 -   Saves Time
-- Automatic Calculations
-- No chance of errors in calculations of inputs are right
-- Feature to add square and square root
+-   Automatic Calculations
+-   No chance of errors in calculations of inputs are right
+-   Feature to add square and square root
 
 ## Weaknesses
 
