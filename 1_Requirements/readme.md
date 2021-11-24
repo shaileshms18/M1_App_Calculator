@@ -18,8 +18,7 @@ A calculator is a machine which allows people to do math operations more easily.
 
 The cost of the calculator should be low as well as it should contain all the basic features.
 
-
-## SWOT ANALYSIS
+## SWOT_ANALYSIS
 
 Calculator are long-lasting, and they have almost all kinds of calculators such as basic, scientific, graphing, financial etc.
 
