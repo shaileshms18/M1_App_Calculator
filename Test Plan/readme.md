@@ -7,22 +7,18 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P**  | **Exp O/P** | **Actual Out** |**Type Of Test**    |    
 |-------------|--------------------------------------------------------------|--------------|-------------|----------------|--------------------|
-|  H_01       | Addition of two numbers                                      |    5+5       |   10        |       10       | Addition based     |
-|  H_02       |Subtraction of two numbers                                    |    10-2      |    8        |       8        |Subtraction based   |
-|  H_03       |Multiplication of two numbers                                 |    10*2      |    20       |       20       |Multiplication based|
-|  H_04       |Division of two numbers                                       |    10/2      |    10       |       10       | Division based     |
-|  H_05      |Square  of two numbers                                         |Square of 10  |    100      |       100      |Square  based       |
-|  H_06      |square root of the number                                   | Square root of 10|   3.16     |       3.16     |Square root based   |
+|  H_01     |Square  of two numbers                                         |Square of 10  |    100      |       100      |Square  based       |
+|  H_02      |square root of the number                                   | Square root of 10|   3.16     |       3.16     |Square root based   |
 
 
 ## Table no: Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
-
+|  L_01       | Addition of two numbers                                      |    5+5       |   10        |       10       | Addition based     |
+|  L_02       |Subtraction of two numbers                                    |    10-2      |    8        |       8        |Subtraction based   |
+|  L_03       |Multiplication of two numbers                                 |    10*2      |    20       |       20       |Multiplication based|
+|  L_04       |Division of two numbers                                       |    10/2      |    10       |       10       | Division based     |
 
 
 
