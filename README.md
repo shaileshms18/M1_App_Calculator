@@ -1,5 +1,7 @@
 # M1_App_Calculator
 
+(![ezgif com-gif-maker](https://user-images.githubusercontent.com/80145154/143287398-55ff9ed7-1cec-427b-9b9f-51ddcfb34df5.gif)
+
 
 ## Quality badge from Codecy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa21699b0daa42cfb64888bd14b46f6e)](https://www.codacy.com/gh/shaileshms18/M1_App_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shaileshms18/M1_App_Calculator&amp;utm_campaign=Badge_Grade)
