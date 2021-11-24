@@ -10,8 +10,6 @@ A basic calculator is sometimes referred to as a 4-function calculator
 
 A calculator is a machine which allows people to do math operations more easily. For example, most calculators will add, subtract, multiply,Square and Squareroot.
 
-
-
 ## Research
  We had Researched on how to build and how the calculator can be customer oriented.
 
