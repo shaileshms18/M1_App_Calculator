@@ -52,6 +52,10 @@ Calculation is being able to perform all four airthmatic operations with minimal
 # Detail requirements
 ## High Level Requirements:
 
+This project can be implemented by using c language in both windows and linux os.
+
+This project will require all the input from user end and then it can perform required tasks on it
+
 It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
 
 
