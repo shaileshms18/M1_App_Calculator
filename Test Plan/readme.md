@@ -5,11 +5,15 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+| **Test ID** | **Description**                                              | **Exp I/P**  | **Exp O/P** | **Actual Out** |**Type Of Test**    |    
+|-------------|--------------------------------------------------------------|--------------|-------------|----------------|--------------------|
+|  H_01       | Addition of two numbers                                      |    5+5       |   10        |       10       | Addition based     |
+|  H_02       |Subtraction of two numbers                                    |    10-2      |    8        |       8        |Subtraction based   |
+|  H_03       |Multiplication of two numbers                                 |    10*2      |    20       |       20       |Multiplication based|
+|  H_04       |Division of two numbers                                       |    10/2      |    10       |       10       | Division based     |
+|  H_05      |Square  of two numbers                                         |Square of 10  |    100      |       100      |Square  based       |
+|  H_06      |square root of the number                                   | Square root of 10|   3.16     |       3.16     |Square root based   |
+
 
 ## Table no: Low level test plan
 
