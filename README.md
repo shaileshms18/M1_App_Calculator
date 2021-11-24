@@ -6,3 +6,6 @@
 
 ## Linux C/C++ Badge from GitHub
 [![Linux C/C++ CI](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/c-cpp.yml)
+
+## Windows Badge from GitHub
+[![Windows C/C++ CI](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml)
