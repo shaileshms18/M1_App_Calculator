@@ -1,4 +1,4 @@
-PROJ_NAME = Calci.c
+PROJ_NAME = M1_App_Calculator
 SRC = Calc.c
 
 ifdef OS
