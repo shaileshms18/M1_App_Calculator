@@ -29,16 +29,13 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 -   Feature to add square and square root
 
 ## Weaknesses
-
 -  Cannot came back once forward to next step
 
 ## Opportunities
-
 -    Can be implemented in any type of store or shops
 
 ## Threats
-
--     Other Similar Applications
+-      Other Similar Applications
 
 # 4w's and 1H
 
