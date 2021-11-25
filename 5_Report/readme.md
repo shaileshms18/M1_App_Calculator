@@ -1,6 +1,6 @@
 # REPORT
 
-# Requirements
+## Requirements
 
 The Calculator should contain 0-9 numbers.
 
@@ -64,8 +64,6 @@ Calculator was developed by intel for the japanese calculator company busicom
 ## How
 
 Calculation is being able to perform all four airthmatic operations with minimal human interaction.
-
-
 ## Detail requirements
 ## High Level Requirements
 
@@ -76,12 +74,10 @@ This project will require all the input from user end and then it can perform re
 It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
 
 Status:All the other Implementations will be done at later Part.
-
 ##  Low level Requirements
 It should contain numerical values from 0-9
 # TEST_PLAN
 ![image](https://user-images.githubusercontent.com/80145154/142767678-dce96330-3b8d-4213-9183-507cae766bbf.png)
-
 
 ## Table no: High level test plan
 
@@ -89,7 +85,6 @@ It should contain numerical values from 0-9
 |-------------|--------------------------------------------------------------|--------------|-------------|----------------|--------------------|
 |  H_01     |Square  of two numbers                                         |Square of 10  |    100      |       100      |Square  based       |
 |  H_02      |square root of the number                                   | Square root of 10|   3.16     |       3.16     |Square root based   |
-
 
 ## Table no: Low level test plan
 
@@ -99,9 +94,6 @@ It should contain numerical values from 0-9
 |  L_02       |Subtraction of two numbers                                    |    10-2      |    8        |       8        |Subtraction based   |
 |  L_03       |Multiplication of two numbers                                 |    10*2      |    20       |       20       |Multiplication based|
 |  L_04       |Division of two numbers                                       |    10/2      |    10       |       10       | Division based     |
-
-
-
 
 ## HIGH LEVEL TEST PLAN
 
@@ -115,8 +107,6 @@ It should contain numerical values from 0-9
 
 5.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
 
-
-
 ## LOW LEVEL TEST PLAN
 
 1.Verify the number of digits allowed to enter in the calculator for any operation.
@@ -129,23 +119,23 @@ It should contain numerical values from 0-9
 
 5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.
 
-# IMAGES AND VIDEOS
+## IMAGES AND VIDEOS
 ## Addition
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Addition.png)
 
-# Division
+## Division
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Division.png)
 
-# Subtraction
+## Subtraction
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Subtraction.png)
 
-# Multiplication
+## Multiplication
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Multiplication.png)
 
-# Square
+## Square
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Multiplication.png)
 
-# Square_root
+## Square_root
 ![image](https://github.com/shaileshms18/M1_App_Calculator/blob/main/6_Images%20and%20Videos/Square_Root.png)
 
 
