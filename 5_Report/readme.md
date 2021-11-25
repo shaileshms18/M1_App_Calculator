@@ -32,7 +32,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 ## Weaknesses
 
--    Cannot came back, once forward to next step
+-   Cannot came back once forward to next step
 
 ## Opportunities
 
@@ -42,7 +42,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 -    Other Similar Applications
 
-# 4w's and 1H
+## 4w's and 1H
 
 ## Who
    
@@ -66,7 +66,7 @@ Calculator was developed by intel for the japanese calculator company busicom
 Calculation is being able to perform all four airthmatic operations with minimal human interaction.
 
 
-# Detail requirements
+## Detail requirements
 ## High Level Requirements
 
 This project can be implemented by using c language in both windows and linux os.
@@ -75,16 +75,11 @@ This project will require all the input from user end and then it can perform re
 
 It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
 
-
 Status:All the other Implementations will be done at later Part.
 
-
 ##  Low level Requirements
-
 It should contain numerical values from 0-9
-
 # TEST_PLAN
-
 ![image](https://user-images.githubusercontent.com/80145154/142767678-dce96330-3b8d-4213-9183-507cae766bbf.png)
 
 
