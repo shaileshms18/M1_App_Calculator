@@ -32,10 +32,10 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 - Cannot came back once forward to next step
 
 ## Opportunities
--      Can be implemented in any type of store or shops
+-  Can be implemented in any type of store or shops
 
 ## Threats
--      Other Similar Applications
+-  Other Similar Applications
 
 # 4w's and 1H
 
