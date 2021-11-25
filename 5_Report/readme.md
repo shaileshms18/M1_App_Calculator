@@ -106,9 +106,7 @@ It should contain numerical values from 0-9
 4.Verify that BODMAS is applied in case of complex queries and the correct result is returned.
 
 5.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
-
 ## LOW LEVEL TEST PLAN
-
 1.Verify the number of digits allowed to enter in the calculator for any operation.
 
 2.Verify the limit of the response value.
@@ -120,7 +118,7 @@ It should contain numerical values from 0-9
 5.Verify that on pressing two operators one after the other, the latest one will override the previous operator.
 
 ## IMAGES AND VIDEOS
-# GIF
+## GIF
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80145154/143287560-bdad61aa-56a7-48cf-8665-414861b16192.gif)
 
 ## Addition
