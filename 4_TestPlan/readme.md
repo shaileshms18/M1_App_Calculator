@@ -1,15 +1,12 @@
 # TEST_PLAN
 
 ![image](https://user-images.githubusercontent.com/80145154/142767678-dce96330-3b8d-4213-9183-507cae766bbf.png)
-
-
 ## Table no: High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P**  | **Exp O/P** | **Actual Out** |**Type Of Test**    |    
 |-------------|--------------------------------------------------------------|--------------|-------------|----------------|--------------------|
 |  H_01     |Square  of two numbers                                         |Square of 10  |    100      |       100      |Square  based       |
 |  H_02      |square root of the number                                   | Square root of 10|   3.16     |       3.16     |Square root based   |
-
 
 ## Table no: Low level test plan
 
