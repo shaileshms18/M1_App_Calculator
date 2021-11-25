@@ -59,7 +59,7 @@ Calculator was developed by intel for the japanese calculator company busicom
 
 Calculation is being able to perform all four airthmatic operations with minimal human interaction.
 
-# Detail requirements
+## Detail requirements
 ## High Level Requirements
 
 This project can be implemented by using c language in both windows and linux os.
