@@ -30,7 +30,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 ## Weaknesses
 
--   Cannot came back once forward to next step
+-  Cannot came back once forward to next step
 
 ## Opportunities
 
