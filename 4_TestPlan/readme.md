@@ -17,9 +17,6 @@
 |  L_03       |Multiplication of two numbers                                 |    10*2      |    20       |       20       |Multiplication based|
 |  L_04       |Division of two numbers                                       |    10/2      |    10       |       10       | Division based     |
 
-
-
-
 ## HIGH LEVEL TEST PLAN
 
 1.Check if the calculator is a normal calculator or a scientific calculator.
@@ -31,8 +28,6 @@
 4.Verify that BODMAS is applied in case of complex queries and the correct result is returned.
 
 5.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
-
-
 
 ## LOW LEVEL TEST PLAN
 
