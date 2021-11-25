@@ -30,7 +30,7 @@ Calculator are long-lasting, and they have almost all kinds of calculators such 
 
 ## Weaknesses
 
--    Cannot came back, once forward to next step
+-    Cannot came back once forward to next step
 
 ## Opportunities
 
@@ -54,7 +54,6 @@ An electronic Calculator is typically a portable electronic device used to perfo
 
 The First calculator was build in early 1960s. and then later updated to pocket calculator in 1970s
 
-
 ## Where
 
 Calculator was developed by intel for the japanese calculator company busicom
@@ -62,7 +61,6 @@ Calculator was developed by intel for the japanese calculator company busicom
 ## How
 
 Calculation is being able to perform all four airthmatic operations with minimal human interaction.
-
 
 # Detail requirements
 ## High Level Requirements
@@ -72,7 +70,6 @@ This project can be implemented by using c language in both windows and linux os
 This project will require all the input from user end and then it can perform required tasks on it
 
 It should contain **Addition,Subtraction,Multiplication,Square and Squareroot**
-
 
 Status:All the other Implementations will be done at later Part.
 
