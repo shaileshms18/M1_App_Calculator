@@ -15,4 +15,5 @@
 ## Unit_Testing Badge from GitHub
 [![Unit_Testing](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml)
 
-
+## Static_code_CPP_CHECK
+[![Static code Cppcheck](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/CppCheck.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/CppCheck.yml)
