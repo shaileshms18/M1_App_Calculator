@@ -16,3 +16,4 @@ jobs:
       
     - name: make test
       run:  make test -C 3_Implementation/
+      
