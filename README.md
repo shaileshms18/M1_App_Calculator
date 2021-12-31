@@ -6,3 +6,10 @@
 |Quality Badge from Codecy|Linux C/C++ Badge from GitHub|Windows Badge from GitHub| Unit_Testing Badge from GitHub| Static_code_CPP_CHECK|
 |:--:|:--:|:--:|:--:|:--:|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8d47991a3e6b4064864c5104cf6aee5d)](https://www.codacy.com/gh/shaileshms18/M1_App_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shaileshms18/M1_App_Calculator&amp;utm_campaign=Badge_Grade)|[![Linux C/C++ CI](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/c-cpp.yml)|[![Windows C/C++ CI](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Windows_c-cpp.yml)|[![Unit_Testing](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/Unit_Testing.yml)|[![Static code Cppcheck](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/CppCheck.yml/badge.svg)](https://github.com/shaileshms18/M1_App_Calculator/actions/workflows/CppCheck.yml)|
+
+
+
+
+
+
+
